@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amine Gaddour
+# 👋 Hi, I'm MED Amine Gaddour
 
 ### Junior Data Engineer · BI Developer · ERP & Data
 
