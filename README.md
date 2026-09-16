@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amine Gaddour
 
-### Data Engineer · BI Developer · ERP & Data
+### Junior Data Engineer · BI Developer · ERP & Data
 
 I build **data solutions from ETL and data warehousing to Business Intelligence and real-time data streaming**.
 
